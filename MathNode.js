@@ -22,7 +22,3 @@ export default defineNode({
         return { output };
     },
 });
-
-// export default defineNuxtPlugin((nuxt) => {
-//   nuxt.provide('MyNode', MyNode);
-// });
