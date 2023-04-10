@@ -7,7 +7,7 @@
   <script lang="ts">
   import { defineComponent } from "vue";
   import { EditorComponent, useBaklava } from "@baklavajs/renderer-vue";
-  import MathNode from "./MyNode";
+  import MathNode from "./MathNode";
   import "@baklavajs/themes/dist/syrup-dark.css";
   
   export default defineComponent({
